@@ -12,3 +12,4 @@
 
 ## Site
 [TailwindCSS](https://tailwindcss.com)
+[Documentation](https://tailwindcss.com/docs)
