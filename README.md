@@ -2,5 +2,12 @@
 
 ## clone
 ```
+
 ```
+
+## Install
+```
+ npm install tailwindcss
+```
+
 ## Site
