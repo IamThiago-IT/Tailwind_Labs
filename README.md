@@ -1,4 +1,4 @@
-# Tailwind_Labs
+# TailwindLabs
 
 ## clone
 ```
@@ -11,6 +11,6 @@
 ```
 
 ## Site
-[TailwindCSS](https://tailwindcss.com)
-[Documentation](https://tailwindcss.com/docs)
-[TailwindUi](https://tailwindui.com/components)
+[TailwindCSS](https://tailwindcss.com)<br>
+[Documentation](https://tailwindcss.com/docs)<br>
+[TailwindUi](https://tailwindui.com/components)<br>
