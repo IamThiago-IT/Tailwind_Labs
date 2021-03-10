@@ -13,3 +13,4 @@
 ## Site
 [TailwindCSS](https://tailwindcss.com)
 [Documentation](https://tailwindcss.com/docs)
+[TailwindUi](https://tailwindui.com/components)
